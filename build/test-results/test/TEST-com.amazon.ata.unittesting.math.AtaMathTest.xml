@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amazon.ata.unittesting.math.AtaMathTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-12-28T19:09:53" hostname="DESKTOP-URGQT26" time="0.33">
+  <properties/>
+  <testcase name="add_sumOutOfBounds_throwsArithmeticException()" classname="com.amazon.ata.unittesting.math.AtaMathTest" time="0.05"/>
+  <testcase name="add_singleInteger_returnsTheInteger()" classname="com.amazon.ata.unittesting.math.AtaMathTest" time="0.059"/>
+  <testcase name="add_emptyArray_returnsZero()" classname="com.amazon.ata.unittesting.math.AtaMathTest" time="0.004"/>
+  <testcase name="average_ofSeveralIntegers_isCorrect()" classname="com.amazon.ata.unittesting.math.AtaMathTest" time="0.071"/>
+  <testcase name="average_ofPositiveAndNegativeIntegers_isCorrect()" classname="com.amazon.ata.unittesting.math.AtaMathTest" time="0.005"/>
+  <testcase name="average_ofNullArray_throwsIllegalArgumentException()" classname="com.amazon.ata.unittesting.math.AtaMathTest" time="0.002"/>
+  <testcase name="add_sumOutofBoundsUnderflow_throwsArithmeticException()" classname="com.amazon.ata.unittesting.math.AtaMathTest" time="0.006"/>
+  <testcase name="add_nullArray_returnsZero()" classname="com.amazon.ata.unittesting.math.AtaMathTest" time="0.001"/>
+  <testcase name="add_twoIntegers_returnsTheirSum()" classname="com.amazon.ata.unittesting.math.AtaMathTest" time="0.002"/>
+  <testcase name="average_ofSingleInteger_isThatInteger()" classname="com.amazon.ata.unittesting.math.AtaMathTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,2 +1,2 @@
-com/amazon/ata/math/AtaMath.java
- com.amazon.ata.math.AtaMath
+com/amazon/ata/unittesting/math/AtaMath.java
+ com.amazon.ata.unittesting.math.AtaMath
